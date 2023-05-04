@@ -1,2 +1,2 @@
 # Learn-DigitalImage
-Learn the basic of read Images file
+Learn the basic of Meachine Learning to read Image files
